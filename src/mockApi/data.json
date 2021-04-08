@@ -1,0 +1,50 @@
+{
+  "1": {
+    "title": "Black Panther",
+    "rating": 5,
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "year": 2018,
+    "upcoming": false,
+    "cast": [
+      { "id": 1, "name": "Chadwick Boseman" },
+      { "id": 2, "name": "Michael B. Jordan" },
+      { "id": 3, "name": "Lupita Nyong'o" }
+    ]
+  },
+  "2": {
+    "title": "Thor: Ragnarok",
+    "rating": 4,
+    "description": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "year": 2017,
+    "upcoming": false,
+    "cast": [
+      { "id": 4, "name": "Chris Hemsworth" },
+      { "id": 5, "name": "Tessa Thompson" },
+      { "id": 6, "name": "Cate Blanchett" }
+    ]
+  },
+  "3": {
+    "title": "Captain Marvel",
+    "rating": 0,
+    "description": "Captain Marvel gets caught in the middle of a galactic war between two alien races.",
+    "year": 2019,
+    "upcoming": true,
+    "cast": [
+      { "id": 7, "name": "Brie Larson" },
+      { "id": 8, "name": "Jude Law" },
+      { "id": 9, "name": "Samuel L. Jackson" }
+    ]
+  },
+  "4": {
+    "title": "Captain America",
+    "rating": 8,
+    "description": "Captain America is the first Avenger and takes on the Red Skull",
+    "year": 2010,
+    "upcoming": false,
+    "cast": [
+      { "id": 7, "name": "Chris Evens" },
+      { "id": 8, "name": "Fred Flinstones" },
+      { "id": 9, "name": "Samuel L. Jackson" }
+    ]
+  }
+}
